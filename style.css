@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+}
+
+h2 {
+    color: red;
+}
+
+div {
+    color: red;
+    font-size: 50px;
+    background-color: aquamarine;
+    text-decoration: solid;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.text {
+    color: red;
+    font-size: 50px;
+    background-color: aquamarine;
+    text-decoration: solid;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+#talk {
+    color: red;
+    font-size: 50px;
+    background-color: aquamarine;
+    text-decoration: solid;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.box {
+    width: 200px;
+    /* 寬度 */
+    height: 75px;
+    /* 高度 */
+    
+}
+.box {
+    padding-top: 20px;
+    /* 上方內部空間 */
+    padding-right: 10px;
+    /* 右方內部空間 */
+    padding-bottom: 20px;
+    /* 下方內部空間 */
+    padding-left: 10px;
+    /* 左方內部空間 */
+}
